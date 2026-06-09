@@ -6,4 +6,4 @@ Working knowledge base for SkyMD — daily logs, content strategy, and running t
 
 - `daily-logs/` — end-of-day voice dumps, dated by YYYY-MM-DD
 - `content-strategy/` — week-by-week breakdowns by channel/project
-  - `stephs-youtube/` — Steph's YouTube content planning and edit notes
+  - `stefs-youtube/` — Stef's YouTube content planning and edit notes
