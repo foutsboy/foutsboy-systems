@@ -6,37 +6,6 @@
 
 ---
 
-## EDITING PHILOSOPHY FOR THIS VIDEO
-
-Stefan's A-roll is the backbone. His voice carries the story. But the visuals should NEVER stay still.
-
-**The rule:** If Stefan has been on screen talking for more than 20 seconds, cut to B-roll. Keep his audio. Move the visuals.
-
-**The goal is to constantly bounce between:**
-- Papago trail / desert / drone
-- Office and backyard founder moments
-- Workouts and action footage
-- SkyMD product shots
-- Community footage / events
-- Lemonade stand / flavor reaction footage
-- Zoom call / BTS founder life
-
-**Less podcast. More documentary. More movement. More energy.**
-
-Every time you think "this has been talking too long" — you're right. Cut to B-roll, add music, jump to another location.
-
----
-
-## THE KEY LINE — USE IT THREE TIMES
-
-> *"This is going to be the hottest new flavor of the summer."*
-
-1. **Intro (teaser):** Flash it early — 1–2 seconds of Stefan saying this line with no context, then cut away. Plant the seed.
-2. **Section 5 (Strawberry Lemonade):** Full delivery, straight to camera. This is the section's climax.
-3. **Outro (optional):** If it lands cleanly as a closing line, end the video on it. Leave viewers excited for what's next.
-
----
-
 ## SECTION 1 — COLD OPEN / INTRO
 **Tone:** No dialogue except the teaser line. All music. All energy.
 **Target Length:** 0:00 – 0:50
@@ -213,14 +182,27 @@ Fast cuts. Product close-ups between every talking moment. Reaction footage laye
 | **Strawberry Lemonade** | **Light, fun, summery — NOT rap** | **Something like "Daisies" — Justin Bieber. Bright, melodic, feel-good. This section should feel completely different from the rest of the video. Match the flavor.** |
 | Outro | Warm, legacy, forward-feeling | *Mr. Carter* — Lil Wayne & Jay-Z; *Bill Gates* — Lil Wayne |
 
-**Full track list available:**
-B's on the Table — Drake / Just Like Bruddas — Future / EVERY CHANCE I GET — DJ Khaled, Lil Baby, Lil Durk / Too Comfortable — Future / Distorted Records — A$AP Rocky / BADDERS — PEEKABOO, Flowdan, Skrillex, G-Rex / TOO FAST — Future / LEVEL UP — Bazanji / Right Above It — Lil Wayne & Drake / Stay Schemin — Rick Ross, French Montana, Drake / Bill Gates — Lil Wayne / Mr. Carter — Lil Wayne & Jay-Z / Song 2 — Blur / It's a Long Way to the Top — AC/DC
+**Track guidelines (not required — use as inspiration):**
+- B's on the Table — Drake
+- Just Like Bruddas — Future
+- EVERY CHANCE I GET — DJ Khaled, Lil Baby, Lil Durk
+- Too Comfortable — Future
+- Distorted Records — A$AP Rocky
+- BADDERS — PEEKABOO, Flowdan, Skrillex, G-Rex
+- TOO FAST — Future
+- LEVEL UP — Bazanji
+- Right Above It — Lil Wayne & Drake
+- Stay Schemin — Rick Ross, French Montana, Drake
+- Bill Gates — Lil Wayne
+- Mr. Carter — Lil Wayne & Jay-Z
+- Song 2 — Blur
+- It's a Long Way to the Top — AC/DC
 
 **Note on licensing:** Confirm all tracks are cleared or use royalty-free alternatives in the same style before export.
 
 ---
 
-## PACING RULES — POST THESE AT YOUR DESK
+## PACING RULES
 1. No talking head longer than 20 seconds without a visual break
 2. Every location transition = opportunity for a music swell or cut
 3. If you're bored watching a section, the viewer is too — cut it
@@ -243,4 +225,35 @@ B's on the Table — Drake / Just Like Bruddas — Future / EVERY CHANCE I GET �
 
 ---
 
-*v4 — June 16, 2026. Built for ADAR.*
+## EDITING PHILOSOPHY FOR THIS VIDEO
+
+Stefan's A-roll is the backbone. His voice carries the story. But the visuals should NEVER stay still.
+
+**The rule:** If Stefan has been on screen talking for more than 20 seconds, cut to B-roll. Keep his audio. Move the visuals.
+
+**The goal is to constantly bounce between:**
+- Papago trail / desert / drone
+- Office and backyard founder moments
+- Workouts and action footage
+- SkyMD product shots
+- Community footage / events
+- Lemonade stand / flavor reaction footage
+- Zoom call / BTS founder life
+
+**Less podcast. More documentary. More movement. More energy.**
+
+Every time you think "this has been talking too long" — you're right. Cut to B-roll, add music, jump to another location.
+
+---
+
+## THE KEY LINE — USE IT THREE TIMES
+
+> *"This is going to be the hottest new flavor of the summer."*
+
+1. **Intro (teaser):** Flash it early — 1–2 seconds of Stefan saying this line with no context, then cut away. Plant the seed.
+2. **Section 5 (Strawberry Lemonade):** Full delivery, straight to camera. This is the section's climax.
+3. **Outro (optional):** If it lands cleanly as a closing line, end the video on it. Leave viewers excited for what's next.
+
+---
+
+*v5 — June 16, 2026. Built for ADAR.*
