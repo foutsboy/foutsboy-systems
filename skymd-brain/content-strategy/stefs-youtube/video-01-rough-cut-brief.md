@@ -1,9 +1,8 @@
 # Stefan Wolf — YouTube Rough Cut Brief
 ## Video 1 | June 2026 | "Founder's Update"
 
-**Source Folder:** `Wolf Content / Raw Content / Stef's CONTENT / 2026 / June / June Week 1-2`
 **Target Length:** 10–14 minutes
-**Reference Energy:** Greg LaVecchia, Casey Neistat, Logan Paul — founder documentary meets hype brand film.
+**Reference Energy:** Greg LaVecchia, Logan Paul — founder documentary meets hype brand film.
 
 ---
 
@@ -54,7 +53,6 @@ Pull in rapid sequence — every cut under 2 seconds:
 - **TEASER:** Stefan says *"This is going to be the hottest new flavor of the summer."* — flash it here, 2 seconds, no context, cut immediately
 - End: smash cut to black or freeze frame → silence → Stefan starts talking
 
-**Music:** Cinematic and building. Should peak right before the smash cut to silence.
 **Editor note:** One line of dialogue, then silence. The teaser creates curiosity. Don't over-explain anything in this section.
 
 ---
@@ -245,20 +243,4 @@ B's on the Table — Drake / Just Like Bruddas — Future / EVERY CHANCE I GET �
 
 ---
 
-## EDITOR CHECKLIST
-- [ ] Scrub C4425 (3:36) in full — use most of it (Section 2)
-- [ ] Scrub C4426 (13:04) — pull 3–4 audio moments only, cover with B-roll (Section 2)
-- [ ] June 8 office session — sleep formula breakdown + Garmin story + packaging (Section 3)
-- [ ] June 10 house session — Zoom audio selects + ice bath + backyard B-roll (Section 4)
-- [ ] June 15 Papago — all 7 desert B-roll clips reviewed, best 4–5 selected for use throughout
-- [ ] June 15 Papago — all 6 running clips reviewed for intro + section 2
-- [ ] Lemonade stand footage — pull best reaction and setup clips (Section 5)
-- [ ] Five Star flavor reaction footage — pull best moments (Section 5)
-- [ ] Global Run Day footage — pull 3–4 best clips for intro
-- [ ] Locate Stefan's *"hottest new flavor of the summer"* line — confirm it's in the footage and plan 3 placements
-- [ ] Music sourced and licensed — especially summer/bright track for Section 5
-- [ ] Final cut reviewed against pacing rules before delivery
-
----
-
-*v2 — June 16, 2026. Built for ADAR. Nic Hill section removed (canceled). Strawberry Lemonade added as Section 5. Papago moved to Section 2.*
+*v4 — June 16, 2026. Built for ADAR.*
