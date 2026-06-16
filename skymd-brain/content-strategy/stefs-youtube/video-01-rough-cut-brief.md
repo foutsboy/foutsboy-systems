@@ -199,12 +199,26 @@ Fast cuts. Product close-ups between every talking moment. Reaction footage laye
 ---
 
 ## MUSIC DIRECTION
-- **Intro:** Cinematic, building, high energy — peaks before smash cut to silence
-- **Papago B-roll:** Ambient/cinematic — underscore the desert landscape
-- **$20K / $1.3M reveals:** Pull music back or cut it entirely — let the words hit
-- **Zoom/office sections:** Low-key energetic undertone, doesn't overpower dialogue
-- **Strawberry Lemonade section:** Bright, summery, upbeat — this section should feel different from the rest
-- **Outro:** Warm, forward-feeling — not sad, not hype
+
+**Philosophy:** Not every section should use rap or hype tracks. Match the music to the emotional tone of the section. A product launch moment at a lemonade stand should feel light and fun — not aggressive. A business milestone moment should feel cinematic and earned. Read the room, then pick the track.
+
+**Section-by-section guide:**
+
+| Section | Vibe | Suggested Tracks |
+|---------|------|-----------------|
+| Intro (cold open) | High energy, cinematic build | *BADDERS* — Skrillex/PEEKABOO; *Song 2* — Blur; *It's a Long Way to the Top* — AC/DC |
+| Papago B-roll open | Ambient, desert, cinematic | Instrumental or low-key underscore — no lyrics |
+| $20K / $1.3M reveals | Pull music back or cut entirely | Silence or minimal — let the words hit |
+| Papago / revenue trajectory | Aspirational, building | *LEVEL UP* — Bazanji; *Right Above It* — Lil Wayne & Drake |
+| Office / Sleep Formula | Mid-energy, operator undertone | *Stay Schemin* — Rick Ross; *Too Comfortable* — Future |
+| House / Marketing Meeting | Low, tension, BTS founder energy | *TOO FAST* — Future; *Distorted Records* — A$AP Rocky |
+| **Strawberry Lemonade** | **Light, fun, summery — NOT rap** | **Something like "Daisies" — Justin Bieber. Bright, melodic, feel-good. This section should feel completely different from the rest of the video. Match the flavor.** |
+| Outro | Warm, legacy, forward-feeling | *Mr. Carter* — Lil Wayne & Jay-Z; *Bill Gates* — Lil Wayne |
+
+**Full track list available:**
+B's on the Table — Drake / Just Like Bruddas — Future / EVERY CHANCE I GET — DJ Khaled, Lil Baby, Lil Durk / Too Comfortable — Future / Distorted Records — A$AP Rocky / BADDERS — PEEKABOO, Flowdan, Skrillex, G-Rex / TOO FAST — Future / LEVEL UP — Bazanji / Right Above It — Lil Wayne & Drake / Stay Schemin — Rick Ross, French Montana, Drake / Bill Gates — Lil Wayne / Mr. Carter — Lil Wayne & Jay-Z / Song 2 — Blur / It's a Long Way to the Top — AC/DC
+
+**Note on licensing:** Confirm all tracks are cleared or use royalty-free alternatives in the same style before export.
 
 ---
 
