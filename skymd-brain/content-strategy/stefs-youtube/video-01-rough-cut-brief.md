@@ -19,7 +19,7 @@ Stefan's A-roll is the backbone. His voice carries the story. But the visuals sh
 - Workouts and action footage
 - SkyMD product shots
 - Community footage / events
-- Nic Hill and athlete content
+- Lemonade stand / flavor reaction footage
 - Zoom call / BTS founder life
 
 **Less podcast. More documentary. More movement. More energy.**
@@ -28,71 +28,117 @@ Every time you think "this has been talking too long" — you're right. Cut to B
 
 ---
 
+## THE KEY LINE — USE IT THREE TIMES
+
+> *"This is going to be the hottest new flavor of the summer."*
+
+1. **Intro (teaser):** Flash it early — 1–2 seconds of Stefan saying this line with no context, then cut away. Plant the seed.
+2. **Section 5 (Strawberry Lemonade):** Full delivery, straight to camera. This is the section's climax.
+3. **Outro (optional):** If it lands cleanly as a closing line, end the video on it. Leave viewers excited for what's next.
+
+---
+
 ## SECTION 1 — COLD OPEN / INTRO
-**Tone:** No dialogue. All music. All energy. This is the trailer.
+**Tone:** No dialogue except the teaser line. All music. All energy.
 **Target Length:** 0:00 – 0:50
 
 Pull in rapid sequence — every cut under 2 seconds:
 - Desert/sunrise B-roll from Papago (best 3 of 7 clips — lead with the rainbow shot)
-- Trail running drone pass
+- Trail running drone pass over Papago
 - Running action on trail
 - Global Run Day crowd footage — movement, energy
 - Quick flash of Stefan in the office — candid, natural
 - Stefan at Papago tailgate — 1–2 second pull
-- Nic Hill at Five Star — 1–2 seconds, signals what's coming
+- Lemonade stand footage — tease it early, don't explain it
 - SkyMD product close-up
+- **TEASER:** Stefan says *"This is going to be the hottest new flavor of the summer."* — flash it here, 2 seconds, no context, cut immediately
 - End: smash cut to black or freeze frame → silence → Stefan starts talking
 
 **Music:** Cinematic and building. Should peak right before the smash cut to silence.
-**Editor note:** This section has zero talking. If you're tempted to add a voiceover here, don't. Let the visuals earn the attention first.
+**Editor note:** One line of dialogue, then silence. The teaser creates curiosity. Don't over-explain anything in this section.
 
 ---
 
-## SECTION 2 — OFFICE: SLEEP FORMULA + PACKAGING
+## SECTION 2 — PAPAGO MORNING RUN: THE BIG UPDATES
+**Tone:** Raw, real, authentic. Hook the viewer with the wins early. This is where the video earns attention.
+**Target Length:** 0:50 – 5:30
+
+**Open with:**
+30 seconds of pure Papago B-roll — trail, desert, drone, sunrise. Music-driven. No talking yet. Let the location breathe.
+
+**Then: C4425 — Tailgate Vlog (3:36) — USE MOST OF THIS**
+
+Stefan's audio runs → visuals constantly cut to:
+- Trail running footage
+- Drone passes over Papago
+- Rainbow B-roll
+- Desert landscape
+- SkyMD product shots
+- Global Run Day footage
+- Community moments
+
+Pull in this order (audio-driven, visuals floating underneath):
+1. Trail run recap — brief scene setter, 20–30 seconds
+2. **$20K SALES DAY** — emotional peak. STAY ON HIS FACE. Do not cut away. Let it land fully. Then cut to product shot or celebratory B-roll.
+3. **$1.3M PURCHASE ORDER** — one-two punch immediately after. Stay on his face for delivery, then cut to brand/product B-roll.
+4. National Hydration Week preview — John Peel giveaway, Wendy Green. Cover with relevant footage.
+
+**Then: C4426 — Strategy Session (13:04) — AUDIO ONLY, 2–3 min max**
+
+Cover almost everything with B-roll. Almost never show the raw talking head.
+
+Priority pull moments:
+- **"$2K a day → $20K a day → road to $1M/month by end of summer"** — best line in the video if he says it clean. Find it.
+- First responder initiative + 5% profits donation — mission moment. Cover with first responder footage if available.
+- Team growth/restructuring — shows momentum. Cover with team/office B-roll.
+
+**Editor note:** Putting Papago second hooks the viewer with the wins before anything else. The $20K and $1.3M moments are the emotional anchor of the whole video — hit them early and hard.
+
+---
+
+## SECTION 3 — OFFICE: SLEEP FORMULA + PACKAGING
 **Tone:** Founder building something real. Educational but personal. Keep it moving.
-**Target Length:** 0:50 – 3:30
+**Target Length:** 5:30 – 8:00
 
 **Open with:**
 Stefan on camera in the office — find his first strong line and start there. Cut any warmup.
 
-**Editing pattern for this whole section:**
-- Stefan talks for 15–20 seconds MAX → cut to B-roll (product, office environment, hands on the bag, ingredient close-ups) → return to Stefan or move his audio under B-roll
-- Never stay on Stefan's face for more than 20 seconds without a visual break
+**Editing pattern:**
+Stefan talks 15–20 seconds MAX → cut to B-roll → return to Stefan or keep audio under B-roll. Never on his face more than 20 seconds without a visual break.
 
 **Pull moments (in order):**
-1. Stefan opening the sleep formula conversation — his energy sets the tone
-2. Ingredient stack breakdown — find the tightest, clearest run-through. His audio can carry this while you cut to product shots, close-ups of the bag, even stock visuals of sleep/recovery.
-3. **The Garmin sleep data story** — this is a strong personal founder moment. Let it breathe for 30–45 seconds. Support with any wearable/data B-roll you have.
-4. **"No melatonin = no grogginess"** — find this line. It's a clip. Use it straight to camera.
-5. Packaging review — Stefan holding the new bag, reading the tagline. Keep to 30 seconds. Cut to close-up of the bag as he's talking.
-6. "5% donated" moment — brief, powerful.
+1. Stefan opening the sleep formula conversation — energy sets the tone
+2. Ingredient stack breakdown — audio carries while you cut to product shots, bag close-ups, ingredient visuals
+3. **Garmin sleep data story** — strong personal founder moment. Let it breathe 30–45 seconds. Support with wearable/data B-roll.
+4. **"No melatonin = no grogginess"** — find this exact line. Use it straight to camera.
+5. Packaging review — Stefan holding the new bag, reading the tagline. 30 seconds. Cut to bag close-up as he talks.
+6. "5% donated" — brief, powerful.
 
 **B-roll to layer throughout:**
 - Product close-ups, new packaging
 - Office environment, Stefan's hands
 - Any recovery/sleep lifestyle footage
 
-**Editor note:** This section introduces the product builder side of Stefan. It should feel like you're in the room with him — not watching a product demo. Pacing is medium here, not fast. But never static.
+**Editor note:** This section introduces the product builder side of Stefan. Medium pacing — not as fast as the intro, but never static.
 
 ---
 
-## SECTION 3 — STEFAN'S HOUSE: MARKETING MEETING + RASPBERRY LAUNCH
+## SECTION 4 — STEFAN'S HOUSE: MARKETING MEETING + RASPBERRY LAUNCH
 **Tone:** Operator mode. Real conversations. Behind the curtain of a fast-growing brand.
-**Target Length:** 3:30 – 6:00
+**Target Length:** 8:00 – 10:00
 
 **Open with:**
-Establishing B-roll of Stefan working from home / backyard. Show the founder-at-home environment before any dialogue starts.
+Establishing B-roll of Stefan working from home / backyard. Show the founder-at-home environment before any dialogue.
 
 **Editing pattern:**
-- Zoom call footage should almost never show the screen. Use the audio and cut to B-roll.
-- Cover as much of the Zoom footage as possible with: product footage, team BTS, office B-roll, Stefan walking around, outdoor founder moments
+Zoom call footage almost never shows the screen. Audio carries, B-roll covers everything.
 
 **Pull moments (in order):**
 1. Backyard or home establishing shot — 10 seconds of atmosphere
-2. Zoom meeting audio — pull the strongest 60–90 seconds around creatine launch and raspberry positioning. Stefan's energy when he's excited about a product comes through even under B-roll.
-3. **Raspberry launch** — find the clearest 20–30 second take on the flavor. Cover with product footage or any lifestyle raspberry content.
-4. **Ice bath moment** — use as a visual transition between topics. Even 5 seconds here wakes the video up.
-5. Founder phone call outside — strong lifestyle B-roll. Layer music underneath, no dialogue needed.
+2. Zoom meeting audio — strongest 60–90 seconds around creatine launch and raspberry positioning. Bury under B-roll.
+3. **Raspberry launch** — clearest 20–30 second take on the flavor, why now. Cover with product footage.
+4. **Ice bath moment** — visual transition between topics. 5 seconds here wakes the video up.
+5. Founder phone call outside — lifestyle B-roll, music underneath, no dialogue needed.
 
 **B-roll to layer throughout:**
 - Raspberry product close-ups
@@ -100,118 +146,105 @@ Establishing B-roll of Stefan working from home / backyard. Show the founder-at-
 - Ice bath
 - Outdoor founder phone call
 
-**Editor note:** This section is about showing that Stefan isn't just a face — he's running a business. The Zoom footage is functional, not cinematic. Bury it under B-roll and let the audio tell the story.
+**Editor note:** The Zoom footage is functional, not cinematic. Bury it under B-roll and let the audio do the storytelling. This section builds toward the Strawberry Lemonade payoff coming next.
 
 ---
 
-## SECTION 4 — NIC HILL AT FIVE STAR
-**Tone:** Authority. Elite performance. This raises the brand's ceiling. Keep it punchy.
-**Target Length:** 6:00 – 8:00
+## SECTION 5 — STRAWBERRY LEMONADE LAUNCH
+**Tone:** Hype. Product moment. Summer energy. Make this feel like a brand milestone.
+**Target Length:** 10:00 – 12:30
+
+This section should feel like the most exciting product launch of the summer. Use every visual tool available — color, movement, reaction, energy.
 
 **Open with:**
-B-roll of Five Star Fitness environment. Establish the setting before any dialogue.
+Lemonade stand footage — establishing the vibe. Bright, summery, fun. Music up. Let it breathe for 15–20 seconds before any dialogue.
 
 **Editing pattern:**
-- Pull 2–3 strong exchanges. Prioritize moments where both Stefan and Nic are visibly energized.
-- Cut between their conversation and: workout footage at Five Star, athletes training, product use in performance context
-- Do NOT shoot this like a podcast. It should feel like a documentary crew stumbled into something real.
+Fast cuts. Product close-ups between every talking moment. Reaction footage layered in. This is the most visually energetic section of the video after the intro.
 
 **Pull moments (in order):**
-1. Best Nic Hill soundbite — something short, quotable, and sharp. One line that stops you.
-2. Stefan + Nic on elite athlete training / NFL Combine — 45–60 seconds
-3. Where hydration and recovery fit into elite performance — bring it back to the product naturally
-4. End on Stefan, not Nic — he's the main character
+
+1. **Lemonade stand footage** — open here. Establish the fun, summery feel. Community energy. People trying it for the first time.
+
+2. **Five Star flavor reactions** — Stefan walking the floor, handing out Strawberry Lemonade, watching people try it. Pull the best reaction moments. These are pure gold — authentic, unscripted, real.
+
+3. **Stefan on the flavor** — find his clearest take on why Strawberry Lemonade, why now, what makes it different. Cover with product footage, pour shots, reaction clips.
+
+4. **THE LINE — Full delivery:**
+   *"This is going to be the hottest new flavor of the summer."*
+   Use it straight to camera. This is the climax of the section. Stay on his face. Then cut to product — slow pour, ice, the full visual moment.
 
 **B-roll to layer throughout:**
-- Five Star training environment
-- Athletes working out
-- SkyMD product in gym context
-- Stefan and Nic walking and talking (not just seated)
+- Lemonade stand setup and energy
+- Product pour shots — make them beautiful
+- Strawberry Lemonade close-ups
+- Flavor reaction moments from Five Star
+- Stefan handing out samples
+- Crowd/community energy
 
-**Editor note:** 2 minutes max on this section. It's a credibility moment, not the main story. Leave the audience wanting more Nic in future videos.
-
----
-
-## SECTION 5 — PAPAGO MORNING RUN: THE BIG UPDATES
-**Tone:** Raw, real, authentic. The emotional core of the video. This is where it earns its weight.
-**Target Length:** 8:00 – 12:30
-
-**Open with:**
-30 seconds of pure Papago B-roll — trail, desert, drone, sunrise. Music-driven. No talking yet. Let the location breathe and reward the viewer who's stuck with the video this long.
-
-**Then: C4425 — Tailgate Vlog (3:36) — USE MOST OF THIS**
-
-Editing pattern: Stefan is talking at the tailgate → his audio continues → visuals constantly cut away to:
-- Trail running footage
-- Drone passes over Papago
-- Rainbow B-roll
-- Desert landscape
-- SkyMD product shots
-- Global Run Day footage
-- Nic Hill callback clips
-- Community/event moments
-
-Pull in this order (audio-driven, visuals floating underneath):
-1. Trail run recap — sets the scene. Keep it short. It's a transition into the updates.
-2. **$20K SALES DAY** — This is the emotional peak of the entire video. Find the exact moment Stefan delivers this. Do NOT cut away from his face here. Stay on him. Let it land. Then cut to a reaction shot, product shot, or celebratory B-roll.
-3. **$1.3M PURCHASE ORDER** — Right after the $20K day. One-two punch. Keep his face on screen for the delivery, then cut to product, manufacturing, or brand B-roll.
-4. National Hydration Week preview — John Peel giveaway, Wendy Green. Cover with relevant footage.
-5. Nic Hill mention — cut back to a quick clip from Section 4 here as a callback.
-
-**Then: C4426 — Strategy Session (13:04) — PULL SELECTIVELY (2–3 min max)**
-
-This is raw and long. Use it as audio only — almost never show the raw talking head. Cover everything with B-roll.
-
-Priority pull moments:
-- **"$2K a day → $20K a day → road to $1M/month by end of summer"** — if he says this clearly, it's the best line in the video. Find it.
-- First responder initiative + 5% profits donation — mission moment. Cover with first responder footage if available.
-- Team growth/restructuring — shows momentum. Cover with team/office B-roll.
-
-**Editor note:** C4426 is 13 minutes of raw, unscripted conversation. Scrub all of it. The gold is in there but you'll need to hunt. Use the content log highlights as your map. Almost none of this should show the raw talking head — audio carries, visuals float.
+**Editor note:** Treat this like a product launch trailer embedded inside the video. Every cut should make the viewer want to try Strawberry Lemonade. Color grade this section slightly warmer/brighter if possible — summer tones.
 
 ---
 
 ## SECTION 6 — OUTRO
-**Tone:** Warm, forward momentum. Not a hard sell. Leave them feeling like they're on the journey with Stefan.
+**Tone:** Warm, forward momentum. Leave them feeling like they're on the journey.
 **Target Length:** 12:30 – 13:30
 
 - Find a natural closing moment from C4425 or C4426
 - Call to action: VIP program, new flavors, follow the journey
-- End on B-roll — desert, product, or running shot with music fading out
-- Final frame: SkyMD product or logo
+- **Optional closing line:** If Stefan's *"This is going to be the hottest new flavor of the summer"* lands well as a final beat — end on it. Third use of the line, closes the loop from the intro teaser.
+- End on B-roll — desert, product pour, or Papago running shot with music fading out
+- Final frame: SkyMD Strawberry Lemonade product or logo
 
 ---
 
 ## MUSIC DIRECTION
 - **Intro:** Cinematic, building, high energy — peaks before smash cut to silence
-- **Papago B-roll moments:** Ambient/cinematic — underscore the desert landscape
-- **Zoom/office sections:** Low-key, energetic undertone — doesn't overpower the dialogue
-- **$20K / $1.3M reveals:** No music or pulled way back — let the words hit
+- **Papago B-roll:** Ambient/cinematic — underscore the desert landscape
+- **$20K / $1.3M reveals:** Pull music back or cut it entirely — let the words hit
+- **Zoom/office sections:** Low-key energetic undertone, doesn't overpower dialogue
+- **Strawberry Lemonade section:** Bright, summery, upbeat — this section should feel different from the rest
 - **Outro:** Warm, forward-feeling — not sad, not hype
 
 ---
 
-## PACING RULES (POST THESE IN YOUR EDITING SPACE)
+## PACING RULES — POST THESE AT YOUR DESK
 1. No talking head longer than 20 seconds without a visual break
 2. Every location transition = opportunity for a music swell or cut
 3. If you're bored watching a section, the viewer is too — cut it
 4. Stefan's audio is the spine. Visuals should always be moving.
 5. When in doubt, add B-roll and keep the audio running underneath
+6. The Strawberry Lemonade section should be the most visually energetic section after the intro
+
+---
+
+## VIDEO STRUCTURE AT A GLANCE
+
+| Section | Content | Time |
+|---------|---------|------|
+| 1 | Cold Open / Intro + SL teaser line | 0:00 – 0:50 |
+| 2 | Papago: $20K day + $1.3M PO | 0:50 – 5:30 |
+| 3 | Office: Sleep Formula + Packaging | 5:30 – 8:00 |
+| 4 | House: Marketing Meeting + Raspberry | 8:00 – 10:00 |
+| 5 | Strawberry Lemonade Launch | 10:00 – 12:30 |
+| 6 | Outro | 12:30 – 13:30 |
 
 ---
 
 ## EDITOR CHECKLIST
-- [ ] Scrub C4425 (3:36) in full — use most of it (audio-driven)
-- [ ] Scrub C4426 (13:04) — pull 3–4 best audio moments only, cover almost all with B-roll
-- [ ] June 8 office session — sleep formula breakdown + Garmin story + packaging review
-- [ ] June 10 house session — Zoom audio selects + ice bath + backyard B-roll
+- [ ] Scrub C4425 (3:36) in full — use most of it (Section 2)
+- [ ] Scrub C4426 (13:04) — pull 3–4 audio moments only, cover with B-roll (Section 2)
+- [ ] June 8 office session — sleep formula breakdown + Garmin story + packaging (Section 3)
+- [ ] June 10 house session — Zoom audio selects + ice bath + backyard B-roll (Section 4)
 - [ ] June 15 Papago — all 7 desert B-roll clips reviewed, best 4–5 selected for use throughout
-- [ ] June 15 Papago — all 6 running action clips reviewed for intro + section 5
-- [ ] June 16 Five Star — Nic Hill selects (2 min max used in video)
+- [ ] June 15 Papago — all 6 running clips reviewed for intro + section 2
+- [ ] Lemonade stand footage — pull best reaction and setup clips (Section 5)
+- [ ] Five Star flavor reaction footage — pull best moments (Section 5)
 - [ ] Global Run Day footage — pull 3–4 best clips for intro
-- [ ] Music sourced and licensed before export
-- [ ] Final cut reviewed against pacing rules above before delivery
+- [ ] Locate Stefan's *"hottest new flavor of the summer"* line — confirm it's in the footage and plan 3 placements
+- [ ] Music sourced and licensed — especially summer/bright track for Section 5
+- [ ] Final cut reviewed against pacing rules before delivery
 
 ---
 
-*v1 — June 16, 2026. Built for ADAR. Revisit after first rough cut review.*
+*v2 — June 16, 2026. Built for ADAR. Nic Hill section removed (canceled). Strawberry Lemonade added as Section 5. Papago moved to Section 2.*
